@@ -20,7 +20,6 @@
 <a href="https://twitter.com/tonyjunkes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tonyjunkes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tonyjunkes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tonyjunkes" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/985709" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="985709" height="30" width="40" /></a>
-<a href="https://codesandbox.com/tony junkes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="tony junkes" height="30" width="40" /></a>
 <a href="/https://tonyjunkes.com/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://tonyjunkes.com/rss.xml" height="30" width="40" /></a>
 </p>
 
