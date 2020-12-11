@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Tony</h1>
 <h3 align="center">Software Engineer, Content Creator, Bourbon Drinker</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonyjunkes" alt="tonyjunkes" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonyjunkes" alt="tonyjunkes" /></a> </p>-->
 
 <p align="left"> <a href="https://twitter.com/tonyjunkes" target="blank"><img src="https://img.shields.io/twitter/follow/tonyjunkes?logo=twitter&style=for-the-badge" alt="tonyjunkes" /></a> </p>
 
