@@ -1,13 +1,11 @@
 <h1 align="center">Hi there 👋 I'm Tony</h1>
 <h3 align="center">Software Engineer, Content Creator, Bourbon Drinker</h3>
+<p align="center"> <a href="https://twitter.com/tonyjunkes" target="blank"><img src="https://img.shields.io/twitter/follow/tonyjunkes?logo=twitter&style=for-the-badge" alt="tonyjunkes" /></a></p>
+<br/>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonyjunkes" alt="tonyjunkes" /></a> </p>-->
+- 💬 Resident tinkerer of **CFML, JavaScript, TypeScript, and really whatever catches my interest!**
+- 📝 I write technical articles on [https://tonyjunkes.com](https://tonyjunkes.com)
+- 📹 [YouTube](https://www.youtube.com/c/TonyJunkes) content coming soon...
 
-<p align="left"> <a href="https://twitter.com/tonyjunkes" target="blank"><img src="https://img.shields.io/twitter/follow/tonyjunkes?logo=twitter&style=for-the-badge" alt="tonyjunkes" /></a> </p>
-
-- 📝 I write articles on [https://tonyjunkes.com](https://tonyjunkes.com)
-
-- 💬 Resident tinkerer of **CFML, FW/1, JavaScript, TypeScript, Clojure**
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyjunkes&show_icons=true&locale=en&layout=compact" alt="tonyjunkes" /></p>
+<br/>
+<p align="center"><a href="https://www.buymeacoffee.com/tonyjunkes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
