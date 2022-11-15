@@ -8,7 +8,7 @@
 <br/>
 
 - 💬 Resident tinkerer of **CFML & JavaScript, with interests in TypeScript, Clojure, Web3, and really whatever catches my eye!**
-- 📝 I write technical articles on [https://tonyjunkes.com](https://tonyjunkes.com)
+- 📝 I write technical articles at [https://tonyjunkes.com](https://tonyjunkes.com)
 - 📹 [YouTube](https://www.youtube.com/c/TonyJunkes) content coming soon...
 
 <br/>
