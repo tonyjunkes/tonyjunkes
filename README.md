@@ -7,7 +7,7 @@
 </p>
 <br/>
 
-- 💬 Resident tinkerer of **CFML & JavaScript, with interests in TypeScript, Clojure, Web3, and really whatever catches my eye!**
+- 💬 Resident tinkerer of **CFML & JavaScript, with interests in TypeScript, Clojure, Rust, and really whatever catches my eye!**
 - 📝 I write technical articles at [https://tonyjunkes.com](https://tonyjunkes.com)
 - 📹 [YouTube](https://www.youtube.com/c/TonyJunkes) content coming soon...
 
